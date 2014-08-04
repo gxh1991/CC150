@@ -1,3 +1,4 @@
+package charpter1;
 
 public class Question1_7 {
 	public void setZeros(int[][] matrix) {

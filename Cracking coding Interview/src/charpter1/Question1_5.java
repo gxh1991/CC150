@@ -1,3 +1,4 @@
+package charpter1;
 
 public class Question1_5 {
 	public String compressBad(String str) {

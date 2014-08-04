@@ -1,3 +1,4 @@
+package charpter1;
 
 public class Question1_1 {
 	public boolean isUniqueChars(String s) {

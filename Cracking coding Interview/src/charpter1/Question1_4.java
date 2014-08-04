@@ -1,3 +1,4 @@
+package charpter1;
 
 public class Question1_4 {
 	public void replaceSpaces(char[] str, int length) {
